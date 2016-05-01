@@ -1,5 +1,5 @@
 'use strict';
 
-const numWords = function (foo) {
+function numWords(foo) {
   return foo.split(` `).length;
-};
+}

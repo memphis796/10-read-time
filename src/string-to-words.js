@@ -1,5 +1,5 @@
 'use strict';
 
-const stringToWords = function (foo) {
+function stringToWords(foo) {
   return foo.split(` `);
-};
+}
